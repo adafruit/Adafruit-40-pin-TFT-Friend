@@ -3,7 +3,7 @@ Adafruit-40-pin-TFT-Friend
 
 These are the Eagle CAD files for the Adafruit 40-pin TFT Friend / Breakout Board
 
-  ---->https://www.adafruit.com/product/17932
+  ---->https://www.adafruit.com/product/1932
 
 Adafruit invests time and resources providing this open source design, please support Adafruit and open-source hardware by purchasing products from Adafruit!
 
