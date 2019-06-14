@@ -17,4 +17,4 @@ Adafruit invests time and resources providing this open source design, please su
 
 All code MIT License, please keep attribution to Adafruit Industries, Limor Fried
 
-See licence.txt for more information.
+See license.txt for more information.
