@@ -1,8 +1,7 @@
 ## Adafruit-40-pin-TFT-Friend
 
 <a href="http://www.adafruit.com/products/1932"><img src="assets/image.jpg?raw=true" width="500px"><br/>
-Click here to purchase one from the Adafruit shop
-</a>
+Click here to purchase one from the Adafruit shop</a>
 
 These are the Eagle CAD files for the Adafruit 40-pin TFT Friend / Breakout Board
 - https://www.adafruit.com/product/1932
@@ -15,6 +14,5 @@ The backlight driver defaults to 25mA and can boost up to 24VDC for up to 7-LED 
 
 Adafruit invests time and resources providing this open source design, please support Adafruit and open-source hardware by purchasing products from [Adafruit.com](https://www.adafruit.com)!
 
-All code MIT License, please keep attribution to Adafruit Industries, Limor Fried
-
+Creative Commons Attribution, Share-Alike license, check license.txt for more information All text above must be included in any redistribution - 
 See license.txt for more information.
