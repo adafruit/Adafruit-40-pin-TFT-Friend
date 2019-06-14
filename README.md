@@ -5,7 +5,6 @@ Click here to purchase one from the Adafruit shop
 </a>
 
 These are the Eagle CAD files for the Adafruit 40-pin TFT Friend / Breakout Board
-
 - https://www.adafruit.com/product/1932
 
 This breakout board is something we designed in-house to help us work with 'dot-clock' 40-pin TFT displays that require the RGB pixel data to be clocked in continuously. These displays have 40-pin Flex PCB (FPC) cables and often require a boost converter for the backlight LED, which makes them annoying to breadboard. To make them breadboardable, we stuck a 40-pin FPC and a FAN5333-based backlight driver with adjustable current onto a labeled breakout board. Now you can poke and probe each pin!
