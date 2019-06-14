@@ -15,6 +15,6 @@ The backlight driver defaults to 25mA and can boost up to 24VDC for up to 7-LED 
 
 Adafruit invests time and resources providing this open source design, please support Adafruit and open-source hardware by purchasing products from [Adafruit.com](https://www.adafruit.com)!
 
-All text above must be included in any redistribution
-
 All code MIT License, please keep attribution to Adafruit Industries, Limor Fried
+
+See licence.txt for more information.
